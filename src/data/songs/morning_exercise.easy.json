@@ -1,0 +1,552 @@
+{
+ "songId": "morning_exercise",
+ "title": "清晨广播体操",
+ "bpm": 90,
+ "audio": "synth://morning_exercise",
+ "offset": 0,
+ "difficulty": "easy",
+ "notes": [
+  {
+   "time": 5333,
+   "type": "ka"
+  },
+  {
+   "time": 6000,
+   "type": "ka"
+  },
+  {
+   "time": 6667,
+   "type": "don"
+  },
+  {
+   "time": 8000,
+   "type": "don"
+  },
+  {
+   "time": 8667,
+   "type": "ka"
+  },
+  {
+   "time": 9333,
+   "type": "don"
+  },
+  {
+   "time": 10000,
+   "type": "ka"
+  },
+  {
+   "time": 10667,
+   "type": "don"
+  },
+  {
+   "time": 11333,
+   "type": "ka"
+  },
+  {
+   "time": 12000,
+   "type": "ka"
+  },
+  {
+   "time": 13333,
+   "type": "don"
+  },
+  {
+   "time": 14667,
+   "type": "don"
+  },
+  {
+   "time": 15333,
+   "type": "don"
+  },
+  {
+   "time": 16000,
+   "type": "ka"
+  },
+  {
+   "time": 16667,
+   "type": "ka"
+  },
+  {
+   "time": 17333,
+   "type": "don"
+  },
+  {
+   "time": 18667,
+   "type": "ka"
+  },
+  {
+   "time": 19333,
+   "type": "ka"
+  },
+  {
+   "time": 20000,
+   "type": "don"
+  },
+  {
+   "time": 21333,
+   "type": "don"
+  },
+  {
+   "time": 22000,
+   "type": "ka"
+  },
+  {
+   "time": 22667,
+   "type": "don"
+  },
+  {
+   "time": 23333,
+   "type": "ka"
+  },
+  {
+   "time": 24000,
+   "type": "don"
+  },
+  {
+   "time": 24667,
+   "type": "don"
+  },
+  {
+   "time": 25333,
+   "type": "ka"
+  },
+  {
+   "time": 26667,
+   "type": "don"
+  },
+  {
+   "time": 27333,
+   "type": "ka"
+  },
+  {
+   "time": 28000,
+   "type": "don"
+  },
+  {
+   "time": 28333,
+   "type": "don"
+  },
+  {
+   "time": 28667,
+   "type": "ka"
+  },
+  {
+   "time": 29333,
+   "type": "don"
+  },
+  {
+   "time": 30000,
+   "type": "ka"
+  },
+  {
+   "time": 30667,
+   "type": "don"
+  },
+  {
+   "time": 31000,
+   "type": "don"
+  },
+  {
+   "time": 31333,
+   "type": "ka"
+  },
+  {
+   "time": 32000,
+   "type": "don"
+  },
+  {
+   "time": 32667,
+   "type": "ka"
+  },
+  {
+   "time": 33333,
+   "type": "don"
+  },
+  {
+   "time": 33667,
+   "type": "don"
+  },
+  {
+   "time": 34000,
+   "type": "ka"
+  },
+  {
+   "time": 34667,
+   "type": "don"
+  },
+  {
+   "time": 35333,
+   "type": "ka"
+  },
+  {
+   "time": 36000,
+   "type": "don"
+  },
+  {
+   "time": 36667,
+   "type": "ka"
+  },
+  {
+   "time": 37000,
+   "type": "ka"
+  },
+  {
+   "time": 37333,
+   "type": "don"
+  },
+  {
+   "time": 37667,
+   "type": "don"
+  },
+  {
+   "time": 38000,
+   "type": "ka"
+  },
+  {
+   "time": 38667,
+   "type": "don"
+  },
+  {
+   "time": 39333,
+   "type": "ka"
+  },
+  {
+   "time": 40000,
+   "type": "don"
+  },
+  {
+   "time": 40333,
+   "type": "don"
+  },
+  {
+   "time": 40667,
+   "type": "ka"
+  },
+  {
+   "time": 41333,
+   "type": "don"
+  },
+  {
+   "time": 42000,
+   "type": "ka"
+  },
+  {
+   "time": 42667,
+   "type": "don"
+  },
+  {
+   "time": 43000,
+   "type": "don"
+  },
+  {
+   "time": 43333,
+   "type": "don"
+  },
+  {
+   "time": 44000,
+   "type": "ka"
+  },
+  {
+   "time": 45333,
+   "type": "don"
+  },
+  {
+   "time": 45667,
+   "type": "don"
+  },
+  {
+   "time": 46000,
+   "type": "don"
+  },
+  {
+   "time": 46667,
+   "type": "ka"
+  },
+  {
+   "time": 48000,
+   "type": "roll",
+   "duration": 1333
+  },
+  {
+   "time": 50667,
+   "type": "don"
+  },
+  {
+   "time": 52667,
+   "type": "ka"
+  },
+  {
+   "time": 53333,
+   "type": "roll",
+   "duration": 2000
+  },
+  {
+   "time": 56000,
+   "type": "don"
+  },
+  {
+   "time": 56667,
+   "type": "ka"
+  },
+  {
+   "time": 58667,
+   "type": "ka"
+  },
+  {
+   "time": 59333,
+   "type": "ka"
+  },
+  {
+   "time": 60000,
+   "type": "don"
+  },
+  {
+   "time": 61333,
+   "type": "ka"
+  },
+  {
+   "time": 62000,
+   "type": "ka"
+  },
+  {
+   "time": 62667,
+   "type": "don"
+  },
+  {
+   "time": 64000,
+   "type": "don"
+  },
+  {
+   "time": 64667,
+   "type": "ka"
+  },
+  {
+   "time": 65333,
+   "type": "don"
+  },
+  {
+   "time": 66000,
+   "type": "ka"
+  },
+  {
+   "time": 66667,
+   "type": "don"
+  },
+  {
+   "time": 68000,
+   "type": "ka"
+  },
+  {
+   "time": 69333,
+   "type": "don"
+  },
+  {
+   "time": 70667,
+   "type": "ka"
+  },
+  {
+   "time": 72000,
+   "type": "don"
+  },
+  {
+   "time": 73333,
+   "type": "ka"
+  },
+  {
+   "time": 74667,
+   "type": "don"
+  },
+  {
+   "time": 75333,
+   "type": "don"
+  },
+  {
+   "time": 76000,
+   "type": "ka"
+  },
+  {
+   "time": 77333,
+   "type": "don"
+  },
+  {
+   "time": 78000,
+   "type": "ka"
+  },
+  {
+   "time": 78667,
+   "type": "ka"
+  },
+  {
+   "time": 80000,
+   "type": "don"
+  },
+  {
+   "time": 80667,
+   "type": "ka"
+  },
+  {
+   "time": 81333,
+   "type": "don"
+  },
+  {
+   "time": 82000,
+   "type": "ka"
+  },
+  {
+   "time": 82333,
+   "type": "ka"
+  },
+  {
+   "time": 82667,
+   "type": "don"
+  },
+  {
+   "time": 83333,
+   "type": "ka"
+  },
+  {
+   "time": 84000,
+   "type": "don"
+  },
+  {
+   "time": 84667,
+   "type": "ka"
+  },
+  {
+   "time": 85000,
+   "type": "ka"
+  },
+  {
+   "time": 85333,
+   "type": "don"
+  },
+  {
+   "time": 86000,
+   "type": "don"
+  },
+  {
+   "time": 86667,
+   "type": "ka"
+  },
+  {
+   "time": 87000,
+   "type": "ka"
+  },
+  {
+   "time": 87333,
+   "type": "don"
+  },
+  {
+   "time": 88000,
+   "type": "don"
+  },
+  {
+   "time": 88667,
+   "type": "don"
+  },
+  {
+   "time": 89333,
+   "type": "ka"
+  },
+  {
+   "time": 89667,
+   "type": "ka"
+  },
+  {
+   "time": 90000,
+   "type": "don"
+  },
+  {
+   "time": 90667,
+   "type": "don"
+  },
+  {
+   "time": 91333,
+   "type": "ka"
+  },
+  {
+   "time": 92000,
+   "type": "don"
+  },
+  {
+   "time": 92667,
+   "type": "ka"
+  },
+  {
+   "time": 93000,
+   "type": "ka"
+  },
+  {
+   "time": 93333,
+   "type": "don"
+  },
+  {
+   "time": 93667,
+   "type": "don"
+  },
+  {
+   "time": 94000,
+   "type": "don"
+  },
+  {
+   "time": 94667,
+   "type": "ka"
+  },
+  {
+   "time": 96000,
+   "type": "don"
+  },
+  {
+   "time": 96333,
+   "type": "don"
+  },
+  {
+   "time": 96667,
+   "type": "ka"
+  },
+  {
+   "time": 97333,
+   "type": "don"
+  },
+  {
+   "time": 98000,
+   "type": "ka"
+  },
+  {
+   "time": 98667,
+   "type": "don"
+  },
+  {
+   "time": 99000,
+   "type": "don"
+  },
+  {
+   "time": 99333,
+   "type": "ka"
+  },
+  {
+   "time": 100000,
+   "type": "don"
+  },
+  {
+   "time": 100667,
+   "type": "ka"
+  },
+  {
+   "time": 101333,
+   "type": "don"
+  },
+  {
+   "time": 102000,
+   "type": "ka"
+  },
+  {
+   "time": 102667,
+   "type": "don"
+  },
+  {
+   "time": 104000,
+   "type": "don"
+  }
+ ]
+}

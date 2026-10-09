@@ -1,0 +1,198 @@
+:root {
+  --bg: #2b1d3a;
+  --bg-deep: #1b1126;
+  --panel: #3a2a4c;
+  --panel-light: #4c3a63;
+  --ink: #fff4e6;
+  --ink-light: #ffe9b0;
+  --muted: #b0a8c0;
+  --red: #e8435a;
+  --red-dark: #b82e44;
+  --blue: #3d7fe0;
+  --blue-dark: #2a5bb0;
+  --yellow: #ffd23f;
+  --yellow-dark: #c99a12;
+  --green: #4caf50;
+  --font: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif;
+  --font-num: 'Arial Black', 'Helvetica Neue', Arial, var(--font);
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  overscroll-behavior: none;
+  touch-action: manipulation;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  font-family: inherit;
+  color: inherit;
+}
+
+canvas {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* 像素边框盒子 */
+.px-box {
+  background: var(--panel);
+  box-shadow:
+    0 -4px 0 0 var(--bg-deep),
+    0 4px 0 0 var(--bg-deep),
+    -4px 0 0 0 var(--bg-deep),
+    4px 0 0 0 var(--bg-deep),
+    inset 0 4px 0 0 rgba(255, 255, 255, 0.08),
+    inset 0 -4px 0 0 rgba(0, 0, 0, 0.25);
+}
+
+/* 像素按钮 */
+.px-btn {
+  --c: var(--red);
+  --cd: var(--red-dark);
+  position: relative;
+  border: none;
+  background: var(--c);
+  color: #fff;
+  font-weight: 900;
+  font-size: 18px;
+  letter-spacing: 2px;
+  padding: 12px 22px;
+  cursor: pointer;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.35);
+  box-shadow:
+    0 -4px 0 0 var(--bg-deep),
+    0 4px 0 0 var(--bg-deep),
+    -4px 0 0 0 var(--bg-deep),
+    4px 0 0 0 var(--bg-deep),
+    inset 0 -5px 0 0 var(--cd),
+    inset 0 3px 0 0 rgba(255, 255, 255, 0.25);
+  transition: transform 0.06s;
+}
+.px-btn:hover {
+  filter: brightness(1.08);
+}
+.px-btn:active {
+  transform: translateY(3px);
+  box-shadow:
+    0 -4px 0 0 var(--bg-deep),
+    0 4px 0 0 var(--bg-deep),
+    -4px 0 0 0 var(--bg-deep),
+    4px 0 0 0 var(--bg-deep),
+    inset 0 -1px 0 0 var(--cd),
+    inset 0 3px 0 0 rgba(0, 0, 0, 0.2);
+}
+.px-btn:disabled {
+  --c: #6a6078;
+  --cd: #4a4258;
+  cursor: not-allowed;
+  filter: none;
+}
+.px-btn.blue {
+  --c: var(--blue);
+  --cd: var(--blue-dark);
+}
+.px-btn.yellow {
+  --c: var(--yellow);
+  --cd: var(--yellow-dark);
+  color: #3a2a10;
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.4);
+}
+.px-btn.ghost {
+  --c: var(--panel-light);
+  --cd: var(--panel);
+}
+.px-btn.small {
+  font-size: 14px;
+  padding: 8px 14px;
+  letter-spacing: 1px;
+}
+
+.px-title {
+  font-weight: 900;
+  letter-spacing: 3px;
+  text-shadow:
+    3px 0 0 var(--bg-deep),
+    -3px 0 0 var(--bg-deep),
+    0 3px 0 var(--bg-deep),
+    0 -3px 0 var(--bg-deep),
+    3px 3px 0 var(--bg-deep),
+    -3px -3px 0 var(--bg-deep),
+    3px -3px 0 var(--bg-deep),
+    -3px 3px 0 var(--bg-deep),
+    6px 6px 0 rgba(0, 0, 0, 0.35);
+}
+
+.num {
+  font-family: var(--font-num);
+  font-variant-numeric: tabular-nums;
+}
+
+.page {
+  position: absolute;
+  inset: 0;
+  padding: max(16px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) max(16px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+  background:
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025) 0 4px, transparent 4px 8px),
+    var(--bg);
+}
+
+.page-head {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+.page-head h1 {
+  margin: 0;
+  font-size: 26px;
+}
+
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 10px;
+  background: var(--bg-deep);
+  outline: none;
+  width: 100%;
+}
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 22px;
+  background: var(--yellow);
+  border: 3px solid var(--bg-deep);
+  cursor: pointer;
+}
+input[type='range']::-moz-range-thumb {
+  width: 16px;
+  height: 18px;
+  background: var(--yellow);
+  border: 3px solid var(--bg-deep);
+  border-radius: 0;
+  cursor: pointer;
+}

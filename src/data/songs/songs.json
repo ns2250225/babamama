@@ -1,0 +1,68 @@
+[
+  {
+    "id": "morning_exercise",
+    "title": "清晨广播体操",
+    "desc": "伸伸懒腰，跟着收音机一起动起来！",
+    "bpm": 90,
+    "difficulty": "easy",
+    "scene": "livingRoom",
+    "seed": 11,
+    "sections": [["intro", 2], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["outro", 2]],
+    "music": { "root": 60, "mode": "major", "progression": [1, 4, 5, 1, 6, 4, 5, 1], "drums": "march", "bass": "march", "lead": 0.25, "arp": false, "swing": 0 }
+  },
+  {
+    "id": "mom_square_dance",
+    "title": "妈妈的广场舞",
+    "desc": "音响一响，整个小区都是舞台。",
+    "bpm": 110,
+    "difficulty": "easy",
+    "scene": "plaza",
+    "seed": 23,
+    "sections": [["intro", 2], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["break", 2], ["chorus", 6], ["outro", 2]],
+    "music": { "root": 62, "mode": "pentatonic", "progression": [1, 6, 4, 5, 1, 6, 2, 5], "drums": "dongci", "bass": "offbeat", "lead": 0.5, "arp": true, "swing": 0 }
+  },
+  {
+    "id": "dad_disco",
+    "title": "爸爸的迪斯科",
+    "desc": "爸爸年轻时可是舞厅一枝花。",
+    "bpm": 125,
+    "difficulty": "normal",
+    "scene": "disco",
+    "seed": 37,
+    "sections": [["intro", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["chorus", 6], ["outro", 2]],
+    "music": { "root": 57, "mode": "dorian", "progression": [1, 1, 4, 4, 1, 1, 5, 4], "drums": "disco", "bass": "octave", "lead": 0.25, "arp": true, "swing": 0 }
+  },
+  {
+    "id": "family_sports_day",
+    "title": "周末家庭运动会",
+    "desc": "预备——跑！全家一起冲刺！",
+    "bpm": 140,
+    "difficulty": "normal",
+    "scene": "field",
+    "seed": 41,
+    "sections": [["intro", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["chorus", 8], ["outro", 4]],
+    "music": { "root": 64, "mode": "major", "progression": [1, 5, 6, 4, 1, 5, 4, 5], "drums": "rock", "bass": "eighth", "lead": 0.125, "arp": false, "swing": 0 }
+  },
+  {
+    "id": "magic_fitness",
+    "title": "魔性健身操",
+    "desc": "洗脑旋律，停不下来的魔性动作。",
+    "bpm": 160,
+    "difficulty": "hard",
+    "scene": "plazaNight",
+    "seed": 53,
+    "sections": [["intro", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["outro", 4]],
+    "music": { "root": 59, "mode": "minor", "progression": [1, 6, 3, 7, 1, 6, 4, 5], "drums": "electro", "bass": "sync", "lead": 0.5, "arp": true, "swing": 0 }
+  },
+  {
+    "id": "ultimate_challenge",
+    "title": "爸妈终极节奏挑战",
+    "desc": "只有真正的节奏大师才能让爸妈跳整齐！",
+    "bpm": 180,
+    "difficulty": "hard",
+    "scene": "fieldNight",
+    "seed": 67,
+    "sections": [["intro", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["verse", 8], ["chorus", 8], ["break", 4], ["chorus", 4], ["outro", 4]],
+    "music": { "root": 62, "mode": "minor", "progression": [1, 7, 6, 5, 1, 7, 6, 7], "drums": "breakbeat", "bass": "eighth", "lead": 0.25, "arp": true, "swing": 0 }
+  }
+]

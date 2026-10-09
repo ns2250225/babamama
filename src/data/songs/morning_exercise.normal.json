@@ -1,0 +1,937 @@
+{
+ "songId": "morning_exercise",
+ "title": "清晨广播体操",
+ "bpm": 90,
+ "audio": "synth://morning_exercise",
+ "offset": 0,
+ "difficulty": "normal",
+ "notes": [
+  {
+   "time": 5333,
+   "type": "ka"
+  },
+  {
+   "time": 5667,
+   "type": "don"
+  },
+  {
+   "time": 6000,
+   "type": "ka"
+  },
+  {
+   "time": 6333,
+   "type": "don"
+  },
+  {
+   "time": 6667,
+   "type": "don"
+  },
+  {
+   "time": 7333,
+   "type": "ka"
+  },
+  {
+   "time": 8000,
+   "type": "ka"
+  },
+  {
+   "time": 8333,
+   "type": "don"
+  },
+  {
+   "time": 8667,
+   "type": "ka"
+  },
+  {
+   "time": 9000,
+   "type": "don"
+  },
+  {
+   "time": 9333,
+   "type": "don"
+  },
+  {
+   "time": 10000,
+   "type": "ka"
+  },
+  {
+   "time": 10667,
+   "type": "ka"
+  },
+  {
+   "time": 11000,
+   "type": "don"
+  },
+  {
+   "time": 11333,
+   "type": "ka"
+  },
+  {
+   "time": 11667,
+   "type": "don"
+  },
+  {
+   "time": 12000,
+   "type": "don"
+  },
+  {
+   "time": 12667,
+   "type": "ka"
+  },
+  {
+   "time": 13333,
+   "type": "ka"
+  },
+  {
+   "time": 13667,
+   "type": "don"
+  },
+  {
+   "time": 14000,
+   "type": "ka"
+  },
+  {
+   "time": 14333,
+   "type": "don"
+  },
+  {
+   "time": 14667,
+   "type": "don"
+  },
+  {
+   "time": 15333,
+   "type": "ka"
+  },
+  {
+   "time": 16000,
+   "type": "don"
+  },
+  {
+   "time": 16333,
+   "type": "ka"
+  },
+  {
+   "time": 16667,
+   "type": "don"
+  },
+  {
+   "time": 17333,
+   "type": "don"
+  },
+  {
+   "time": 17667,
+   "type": "ka"
+  },
+  {
+   "time": 18000,
+   "type": "don"
+  },
+  {
+   "time": 18667,
+   "type": "ka"
+  },
+  {
+   "time": 19000,
+   "type": "don"
+  },
+  {
+   "time": 19333,
+   "type": "ka"
+  },
+  {
+   "time": 19667,
+   "type": "don"
+  },
+  {
+   "time": 20000,
+   "type": "don"
+  },
+  {
+   "time": 20667,
+   "type": "ka"
+  },
+  {
+   "time": 21333,
+   "type": "don"
+  },
+  {
+   "time": 21667,
+   "type": "don"
+  },
+  {
+   "time": 22000,
+   "type": "ka"
+  },
+  {
+   "time": 22667,
+   "type": "don"
+  },
+  {
+   "time": 23000,
+   "type": "don"
+  },
+  {
+   "time": 23333,
+   "type": "ka"
+  },
+  {
+   "time": 24000,
+   "type": "don"
+  },
+  {
+   "time": 24667,
+   "type": "ka"
+  },
+  {
+   "time": 25000,
+   "type": "ka"
+  },
+  {
+   "time": 25333,
+   "type": "don"
+  },
+  {
+   "time": 26000,
+   "type": "ka"
+  },
+  {
+   "time": 26667,
+   "type": "don"
+  },
+  {
+   "time": 27000,
+   "type": "ka"
+  },
+  {
+   "time": 27167,
+   "type": "ka"
+  },
+  {
+   "time": 27333,
+   "type": "don"
+  },
+  {
+   "time": 27667,
+   "type": "ka"
+  },
+  {
+   "time": 28000,
+   "type": "don"
+  },
+  {
+   "time": 28333,
+   "type": "ka"
+  },
+  {
+   "time": 28500,
+   "type": "ka"
+  },
+  {
+   "time": 28667,
+   "type": "don"
+  },
+  {
+   "time": 29333,
+   "type": "don"
+  },
+  {
+   "time": 29667,
+   "type": "ka"
+  },
+  {
+   "time": 29833,
+   "type": "ka"
+  },
+  {
+   "time": 30000,
+   "type": "don"
+  },
+  {
+   "time": 30333,
+   "type": "ka"
+  },
+  {
+   "time": 30667,
+   "type": "don"
+  },
+  {
+   "time": 31000,
+   "type": "ka"
+  },
+  {
+   "time": 31167,
+   "type": "ka"
+  },
+  {
+   "time": 31333,
+   "type": "don"
+  },
+  {
+   "time": 32000,
+   "type": "don"
+  },
+  {
+   "time": 32333,
+   "type": "ka"
+  },
+  {
+   "time": 32500,
+   "type": "ka"
+  },
+  {
+   "time": 32667,
+   "type": "don"
+  },
+  {
+   "time": 33000,
+   "type": "ka"
+  },
+  {
+   "time": 33333,
+   "type": "don"
+  },
+  {
+   "time": 33667,
+   "type": "ka"
+  },
+  {
+   "time": 33833,
+   "type": "ka"
+  },
+  {
+   "time": 34000,
+   "type": "don"
+  },
+  {
+   "time": 34667,
+   "type": "don"
+  },
+  {
+   "time": 35000,
+   "type": "ka"
+  },
+  {
+   "time": 35167,
+   "type": "ka"
+  },
+  {
+   "time": 35333,
+   "type": "don"
+  },
+  {
+   "time": 35667,
+   "type": "ka"
+  },
+  {
+   "time": 36000,
+   "type": "don"
+  },
+  {
+   "time": 36333,
+   "type": "ka"
+  },
+  {
+   "time": 36500,
+   "type": "ka"
+  },
+  {
+   "time": 36667,
+   "type": "don"
+  },
+  {
+   "time": 37333,
+   "type": "don"
+  },
+  {
+   "time": 37500,
+   "type": "ka"
+  },
+  {
+   "time": 38000,
+   "type": "don"
+  },
+  {
+   "time": 38167,
+   "type": "ka"
+  },
+  {
+   "time": 38667,
+   "type": "don"
+  },
+  {
+   "time": 39000,
+   "type": "ka"
+  },
+  {
+   "time": 39333,
+   "type": "don"
+  },
+  {
+   "time": 40000,
+   "type": "ka"
+  },
+  {
+   "time": 40333,
+   "type": "ka"
+  },
+  {
+   "time": 40667,
+   "type": "don"
+  },
+  {
+   "time": 41000,
+   "type": "don"
+  },
+  {
+   "time": 41333,
+   "type": "ka"
+  },
+  {
+   "time": 41667,
+   "type": "ka"
+  },
+  {
+   "time": 42000,
+   "type": "don"
+  },
+  {
+   "time": 42667,
+   "type": "ka"
+  },
+  {
+   "time": 43000,
+   "type": "ka"
+  },
+  {
+   "time": 43333,
+   "type": "don"
+  },
+  {
+   "time": 43667,
+   "type": "don"
+  },
+  {
+   "time": 44000,
+   "type": "ka"
+  },
+  {
+   "time": 44333,
+   "type": "ka"
+  },
+  {
+   "time": 44667,
+   "type": "don"
+  },
+  {
+   "time": 45333,
+   "type": "ka"
+  },
+  {
+   "time": 45667,
+   "type": "ka"
+  },
+  {
+   "time": 46000,
+   "type": "don"
+  },
+  {
+   "time": 46333,
+   "type": "don"
+  },
+  {
+   "time": 46667,
+   "type": "ka"
+  },
+  {
+   "time": 47000,
+   "type": "ka"
+  },
+  {
+   "time": 47333,
+   "type": "don"
+  },
+  {
+   "time": 48000,
+   "type": "roll",
+   "duration": 1000
+  },
+  {
+   "time": 49333,
+   "type": "don"
+  },
+  {
+   "time": 50000,
+   "type": "ka"
+  },
+  {
+   "time": 50667,
+   "type": "don"
+  },
+  {
+   "time": 51000,
+   "type": "ka"
+  },
+  {
+   "time": 51333,
+   "type": "don"
+  },
+  {
+   "time": 52000,
+   "type": "roll",
+   "duration": 1333
+  },
+  {
+   "time": 54667,
+   "type": "don"
+  },
+  {
+   "time": 55000,
+   "type": "ka"
+  },
+  {
+   "time": 55333,
+   "type": "don"
+  },
+  {
+   "time": 56000,
+   "type": "don"
+  },
+  {
+   "time": 56667,
+   "type": "ka"
+  },
+  {
+   "time": 57333,
+   "type": "don"
+  },
+  {
+   "time": 57667,
+   "type": "ka"
+  },
+  {
+   "time": 58000,
+   "type": "ka"
+  },
+  {
+   "time": 58667,
+   "type": "don"
+  },
+  {
+   "time": 59000,
+   "type": "ka"
+  },
+  {
+   "time": 59667,
+   "type": "ka"
+  },
+  {
+   "time": 60000,
+   "type": "don"
+  },
+  {
+   "time": 60333,
+   "type": "ka"
+  },
+  {
+   "time": 61333,
+   "type": "don"
+  },
+  {
+   "time": 61667,
+   "type": "don"
+  },
+  {
+   "time": 62000,
+   "type": "ka"
+  },
+  {
+   "time": 62667,
+   "type": "don"
+  },
+  {
+   "time": 63000,
+   "type": "don"
+  },
+  {
+   "time": 63333,
+   "type": "ka"
+  },
+  {
+   "time": 64000,
+   "type": "don"
+  },
+  {
+   "time": 64667,
+   "type": "ka"
+  },
+  {
+   "time": 65000,
+   "type": "ka"
+  },
+  {
+   "time": 65333,
+   "type": "don"
+  },
+  {
+   "time": 66000,
+   "type": "ka"
+  },
+  {
+   "time": 66667,
+   "type": "don"
+  },
+  {
+   "time": 67333,
+   "type": "ka"
+  },
+  {
+   "time": 68000,
+   "type": "don"
+  },
+  {
+   "time": 68333,
+   "type": "ka"
+  },
+  {
+   "time": 68667,
+   "type": "ka"
+  },
+  {
+   "time": 69333,
+   "type": "ka"
+  },
+  {
+   "time": 69667,
+   "type": "don"
+  },
+  {
+   "time": 70000,
+   "type": "ka"
+  },
+  {
+   "time": 70333,
+   "type": "don"
+  },
+  {
+   "time": 70667,
+   "type": "don"
+  },
+  {
+   "time": 71333,
+   "type": "ka"
+  },
+  {
+   "time": 72000,
+   "type": "don"
+  },
+  {
+   "time": 72667,
+   "type": "ka"
+  },
+  {
+   "time": 73000,
+   "type": "ka"
+  },
+  {
+   "time": 73333,
+   "type": "don"
+  },
+  {
+   "time": 74000,
+   "type": "ka"
+  },
+  {
+   "time": 74667,
+   "type": "don"
+  },
+  {
+   "time": 75333,
+   "type": "ka"
+  },
+  {
+   "time": 75667,
+   "type": "ka"
+  },
+  {
+   "time": 76000,
+   "type": "don"
+  },
+  {
+   "time": 76667,
+   "type": "ka"
+  },
+  {
+   "time": 77333,
+   "type": "don"
+  },
+  {
+   "time": 78000,
+   "type": "ka"
+  },
+  {
+   "time": 78667,
+   "type": "don"
+  },
+  {
+   "time": 79000,
+   "type": "ka"
+  },
+  {
+   "time": 79333,
+   "type": "ka"
+  },
+  {
+   "time": 80000,
+   "type": "don"
+  },
+  {
+   "time": 80333,
+   "type": "ka"
+  },
+  {
+   "time": 80667,
+   "type": "don"
+  },
+  {
+   "time": 81000,
+   "type": "ka"
+  },
+  {
+   "time": 81333,
+   "type": "don"
+  },
+  {
+   "time": 81667,
+   "type": "ka"
+  },
+  {
+   "time": 82000,
+   "type": "don"
+  },
+  {
+   "time": 82667,
+   "type": "ka"
+  },
+  {
+   "time": 83000,
+   "type": "ka"
+  },
+  {
+   "time": 83333,
+   "type": "don"
+  },
+  {
+   "time": 83667,
+   "type": "don"
+  },
+  {
+   "time": 84000,
+   "type": "ka"
+  },
+  {
+   "time": 84333,
+   "type": "ka"
+  },
+  {
+   "time": 84667,
+   "type": "don"
+  },
+  {
+   "time": 85333,
+   "type": "don"
+  },
+  {
+   "time": 85500,
+   "type": "ka"
+  },
+  {
+   "time": 86000,
+   "type": "don"
+  },
+  {
+   "time": 86167,
+   "type": "ka"
+  },
+  {
+   "time": 86667,
+   "type": "don"
+  },
+  {
+   "time": 87000,
+   "type": "ka"
+  },
+  {
+   "time": 87333,
+   "type": "don"
+  },
+  {
+   "time": 88000,
+   "type": "don"
+  },
+  {
+   "time": 88167,
+   "type": "ka"
+  },
+  {
+   "time": 88667,
+   "type": "don"
+  },
+  {
+   "time": 88833,
+   "type": "ka"
+  },
+  {
+   "time": 89333,
+   "type": "don"
+  },
+  {
+   "time": 89667,
+   "type": "ka"
+  },
+  {
+   "time": 90000,
+   "type": "don"
+  },
+  {
+   "time": 90667,
+   "type": "don"
+  },
+  {
+   "time": 91000,
+   "type": "ka"
+  },
+  {
+   "time": 91167,
+   "type": "ka"
+  },
+  {
+   "time": 91333,
+   "type": "don"
+  },
+  {
+   "time": 91667,
+   "type": "ka"
+  },
+  {
+   "time": 92000,
+   "type": "don"
+  },
+  {
+   "time": 92333,
+   "type": "ka"
+  },
+  {
+   "time": 92500,
+   "type": "ka"
+  },
+  {
+   "time": 92667,
+   "type": "don"
+  },
+  {
+   "time": 93333,
+   "type": "ka"
+  },
+  {
+   "time": 93667,
+   "type": "ka"
+  },
+  {
+   "time": 94000,
+   "type": "don"
+  },
+  {
+   "time": 94333,
+   "type": "don"
+  },
+  {
+   "time": 94667,
+   "type": "ka"
+  },
+  {
+   "time": 95000,
+   "type": "ka"
+  },
+  {
+   "time": 95333,
+   "type": "don"
+  },
+  {
+   "time": 96000,
+   "type": "don"
+  },
+  {
+   "time": 96167,
+   "type": "ka"
+  },
+  {
+   "time": 96667,
+   "type": "don"
+  },
+  {
+   "time": 96833,
+   "type": "ka"
+  },
+  {
+   "time": 97333,
+   "type": "don"
+  },
+  {
+   "time": 97667,
+   "type": "ka"
+  },
+  {
+   "time": 98000,
+   "type": "don"
+  },
+  {
+   "time": 98667,
+   "type": "don"
+  },
+  {
+   "time": 98833,
+   "type": "ka"
+  },
+  {
+   "time": 99333,
+   "type": "don"
+  },
+  {
+   "time": 99500,
+   "type": "ka"
+  },
+  {
+   "time": 100000,
+   "type": "don"
+  },
+  {
+   "time": 100333,
+   "type": "ka"
+  },
+  {
+   "time": 100667,
+   "type": "don"
+  },
+  {
+   "time": 101333,
+   "type": "roll",
+   "duration": 1333
+  },
+  {
+   "time": 103333,
+   "type": "ka"
+  },
+  {
+   "time": 104000,
+   "type": "don"
+  },
+  {
+   "time": 104667,
+   "type": "ka"
+  },
+  {
+   "time": 105333,
+   "type": "don"
+  }
+ ]
+}
